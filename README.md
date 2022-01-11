@@ -14,7 +14,7 @@ Method called by Opportunity Territory Assignment job to assign territory to opp
 
 **OBS** \
 This code is dependent on salesforce TestFactory.csl. Before installing make sure that you do not have a class with this name. \
-The below steps will overrite any existing code. \
+The below steps will overrite any existing code. 
 
 **Step 1:** Install as an unlocked package: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2G000000Y19lQAC \
 **Step 2:** Quick deploy this repo to the same org. \
