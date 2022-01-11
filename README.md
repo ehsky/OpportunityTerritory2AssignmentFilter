@@ -24,3 +24,12 @@ You find and setup this in Setup -> Feature Settings -> Territories
 **Step 1:** Install as an unlocked package: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2G000000Y19lQAC \
 **Step 2:** Quick deploy this repo to the same org.
 [![Deploy to salesforce](/.assets/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=ehsky&repo=OpportunityTerritory2AssignmentFilter)
+
+## Demo org
+
+You can quickly spin up an org by clicking on the picture below. \
+This will create a scratch org that you have access to for 1 day \
+**NB:**
+The Scratch demo org with deployment of this repo will fail, and that is expected. The created org will be empty with the territory feature enabled. \
+You then continue with the **install steps** in heading **Deployment** to the created scratch org. \
+[![Demo scratch org](/.assets/deployDemo.png)](https://hosted-scratch.herokuapp.com/launch?template=https://github.com/ehsky/OpportunityTerritory2AssignmentFilter)
